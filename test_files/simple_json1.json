@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "author": "John Smith",
+    "users": [
+        {
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "age": 32
+        }, {
+            "first_name": "John",
+            "last_name": "Hancock",
+            "age": 40
+        }, {
+            "first_name": "Nelson",
+            "last_name": "Johnson",
+            "age": 24
+        }
+    ]
+}
